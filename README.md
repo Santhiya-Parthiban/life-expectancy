@@ -1,9 +1,9 @@
 # Life Expectancy SQL Analysis Project
 
-## 📖 Overview
+## Overview
 This project provides a comprehensive SQL analysis of life expectancy trends across countries, genders, and time periods. It leverages advanced SQL techniques such as window functions, conditional aggregation, and benchmarking to uncover meaningful insights.
 
-## 🔍 Key Analyses
+## Key Analyses
 The project includes 10 insightful queries:
 - Overall highest and lowest life expectancy records
 - Year-wise highest and lowest by country and gender
@@ -15,7 +15,7 @@ The project includes 10 insightful queries:
 - Global vs country benchmarking
 - Top country’s best and worst years with gender breakdown
 
-## ⚙️ Features Used
+## Features Used
 Advanced SQL techniques demonstrated:
 - Window functions (`RANK()`, `LAG()`)
 - Subqueries and derived tables
